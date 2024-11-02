@@ -1,0 +1,6 @@
+@CharRanking.Server_HostAddress = http://localhost:5018
+
+GET {{CharRanking.Server_HostAddress}}/rankings/
+Accept: application/json
+
+###
